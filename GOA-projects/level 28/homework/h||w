@@ -1,0 +1,92 @@
+
+def sum(num1, num2):
+    print(num1+num2)
+sum(333333,222232222)
+
+def sum(num3, num4):
+    print(num3-num4)
+sum(0.343422,0.000000000000000000000001)
+
+def sum(num5, num6):
+    print(num5*num6)
+sum(270575257,12345623)
+
+def sum(num7, num8):
+    print(num7/num8)
+sum(123456789,987654321)
+
+def sum(num9, num10):
+    print(num9//num10)
+sum(987654321,123456789)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
