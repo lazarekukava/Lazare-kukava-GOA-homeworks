@@ -1,0 +1,31 @@
+.cube{
+    height: 50px; width: 50px; 
+    background: blue;
+    border: 2px red;
+    margin: 5px;
+}
+
+
+
+
+
+
+div{
+    display :flex ;
+    flex-direction: row;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
