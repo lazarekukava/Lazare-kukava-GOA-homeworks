@@ -1,0 +1,21 @@
+#img {
+    width: 150px;
+    height: 100px;
+    border-radius: 5%;
+    border: 1px black solid;
+}
+
+section {
+    width: 250px;
+    height: 350px;
+    background-color:blueviolet;
+    display: flex;
+    justify-content: center;
+    border-radius: 5%;
+    border: 1px black solid;
+}
+
+p {
+    display: flex;
+    padding: 5px;
+}
